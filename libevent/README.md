@@ -1,0 +1,3 @@
+Linux上运行的基于libevent实现的echo演示程序，通过cmake编译方式。
+
+编译前请先配置libevent的环境。
