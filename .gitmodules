@@ -1,0 +1,3 @@
+[submodule "libgo/src/libgo"]
+	path = libgo/src/libgo
+	url = https://github.com/yyzybb537/libgo.git
